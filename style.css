@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(red, rgb(226, 181, 181));
+}
+.menu {
+    color: white;
+}
