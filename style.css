@@ -1,6 +1,5 @@
 * {
     margin: 0;
-    border: 0;
     padding: 0;
     box-sizing: border-box;
 }
@@ -17,7 +16,7 @@ body {
 
 header {
     display: flex;
-    height: 40px;
+    height: 40%;
     width: 100%;
     flex-direction: row;
     align-items: center;
@@ -29,7 +28,7 @@ header {
 }
 
 #submenu {
-    height: 4px;
+    height: 4%;
     width: 70px;
     background-color: white;
     box-shadow: -25px 15px 0px white, -25px -15px 0px white;
@@ -57,7 +56,6 @@ h1 {
 
 #garrafa-central {
     height: 95%;
-
 }
 
 #coca-background {
@@ -86,7 +84,6 @@ h1 {
         padding-right: 0;
         width: 200px;
         font-size: 1rem;
-    
     }
     #garrafa-central {
         height: 50%;
@@ -107,12 +104,12 @@ footer img {
     height: 50px;
     width: 70px;
 }
+
 footer h1 {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 16px;
     height: 50px;
     width: 70px;
-    margin-top: 100px;
     left: 1755px;
     bottom: -8px;
 }

@@ -4,3 +4,5 @@ Coca-Cola Figma - DS2M
 O projeto consiste em recriar o layout que foi dado pelo professor.
 
 O código foi construido pensando em boas práticas, como responsabilidade única e funções puras.
+
+![](img/projetoCoca.PNG)
